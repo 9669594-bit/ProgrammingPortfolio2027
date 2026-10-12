@@ -8,22 +8,23 @@
 
 [Link to Source Code](https://github.com/9669594-bit/ProgrammingPortfolio2027/tree/main/src/Calculator)
 
-# [Your Calculator's Name]
+# [MouseKing's Calculator]
 
 ## Overview
-00P Calculator using Processing for graphics and Java for Computer Programming.
+00P Calculator using Processing for graphics and Java for Computer Programming. It has some basic features, including arithmetic operators, roots, squares, and decimals.
 
 ## Current Status
 Working:
-- [A feature you have tested]
-- [Another feature you have tested]
+- basic opperations
+- numbers
 
 Still in progress:
-- [A requirement you are finishing]
+- better layout
+- other buttons
 
 ## How to Run
 Built with Processing.
-Processing version: [Your version]
+Processing version: 4.0.1
 
 [After the project files are uploaded, identify the
 project folder and main .pde file to open and run.]
