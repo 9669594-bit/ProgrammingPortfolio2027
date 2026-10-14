@@ -26,24 +26,20 @@ Still in progress:
 Built with Processing.
 Processing version: 4.0.1
 
-[After the project files are uploaded, identify the
-project folder and main .pde file to open and run.]
+Upload the files Button and Calculator, run them on processing, and use it as you want.
 
 ## Controls
 Mouse:
-[Explain how to use the buttons.]
+click the buttons for their function, or use numbers 0-9 on the keyboard for a faster alternative
 
 Keyboard:
-[List keys that currently work and what they do.
-Identify planned controls as not yet implemented.]
+you can type all numbers, but operation buttons are still under construction
 
 ## Project Files
-[Identify the main sketch and other tabs or assets
-you will upload.]
+You have to uplaod the files in mai: Calculator and Button
 
 ## Testing
-[Record one test: actions, expected result,
-and actual result.]
+Test: layout is missing 2 buttons, keypress has numbers 0-9, basic functions are all working
 
 ## Next Step
-[Name the specific behavior you will build or fix next.]
+Next step is to first make the layout more user friendly, then we could add the 2 missing op buttons, and lastly add all op buttons for keyboard.
