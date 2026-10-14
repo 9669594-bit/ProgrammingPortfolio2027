@@ -115,6 +115,7 @@ void mouseReleased() {
 
       if (clicked == '=') {
         performCal();
+        
       } else if (clicked == '+' || clicked == '-' ||
         clicked == 'x' || clicked == '÷') {
         op = clicked;
@@ -232,6 +233,24 @@ void keyPressed() {
   } else if (key == '0') {
     println("You hit 0" + keyCode);
     handleEvent('0', true);
+  } else if (key == '-') {
+    println("You hit -" + keyCode);
+    handleEvent('-', false); 
+  } else if (key == '+') {
+    println("You hit +" + keyCode);
+    handleEvent('+', false);
+  } else if (key == 'x') {
+    println("You hit x" + keyCode);
+    handleEvent('x', false);
+  } else if (key == '/') {
+    println("You hit /" + keyCode);
+    handleEvent('/', false);
+  } else if (key == '.') {
+    println("You hit ." + keyCode);
+    handleEvent('.', false);
+  } else if (key == 'c') {
+    println("You hit c" + keyCode);
+    handleEvent('c', false);
   }
 }
 
